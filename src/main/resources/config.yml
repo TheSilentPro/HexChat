@@ -1,0 +1,6 @@
+# Regex pattern for matching
+# By default, this matches as such: #123456
+pattern: '(#[A-Fa-f0-9]{6})'
+
+# Whether to format console commands
+formatConsole: true

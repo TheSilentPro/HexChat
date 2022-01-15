@@ -1,0 +1,11 @@
+name: ${project.name}
+description: ${project.description}
+
+main: tsp.hexchat.HexChat
+version: ${project.version}
+author: Silent
+
+permissions:
+  hexchat.use:
+    default: op
+    description: Allows the use of hex color codes in chat
